@@ -21,12 +21,13 @@ A step by step series of examples that tell you have to get a development env ru
 
 * [React](https://reactjs.org/docs/)
 * [Redux](https://redux.js.org)
+* [Webpack](https://webpack.js.org/concepts/)
 * [Express](https://expressjs.com/en/4x/api.html)
 * [MySQL](https://github.com/mysqljs/mysql)
 
 ## Authors
 
-* **Quentin Vidal** - *Initial work* - [QisforQ](https://github.com/qisforq)
+* **Quentin Vidal** 
 
 
 
